@@ -3,8 +3,6 @@
 
 `plots` - a folder that stores graphics saved by the function
 
-`venv` - virtual environment folder
-
 `data_overview` - file with an overview of the example data
 
 `func` - .py file containing the function
