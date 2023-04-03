@@ -40,4 +40,4 @@ When writing the function, it was assumed that the appearance, format, column or
 ## Running Unit Test
 
 1. Open new terminal at project folder.
-2. Run Unit-test by typing `python3 test.py` in the terminal.
+2. Run Unit-test by typing `python3 test.py -v` in the terminal.

@@ -4,7 +4,7 @@ from func import plot_drawer
 class Test_plot_drawer(unittest.TestCase):
   def setUp(self):
     self.plot_drawer = plot_drawer()
-  def test_add(self):
+  def test_draw_plot(self):
     self.assertEqual(self.plot_drawer.draw_plots('https://ai-process-sandy.s3.eu-west-1.amazonaws.com/purge/deviation.json'), ['plots/Name_to_mean_plot.png',
  'plots/Name_to_max_plot.png',
  'plots/Name_to_min_plot.png',
